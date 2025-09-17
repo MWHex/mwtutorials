@@ -5,7 +5,7 @@ All tutorials relate to MW12 unless otherwise specified. Some may also work for 
 ### Audio/Video
 
 *   [Adding New Songs](https://mwhex.github.io/mwtutorials/tutorials/mw12_addingnewsongs)
-*   Convert MP3 to SPS
+*   [Convert MP3 to SPS](https://mwhex.github.io/mwtutorials/tutorials/mw12_convertmp3tosps)
 *   Extract GIN files (MW12/HP)
 *   Make a VP6 video
     
