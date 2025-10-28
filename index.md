@@ -18,7 +18,7 @@ Tutorials for the Blender addons created by DGIorio.
 *   [Using the Importer (MW12/HP/BP)](https://mwhex.github.io/mwtutorials/tutorials/Using%20NFS%20MW%202012%2C%20HP%2C%20BP%20Importer%20Blender%20addon.pdf)
 *   [Using the Exporter for Cars (MW12)](https://mwhex.github.io/mwtutorials/tutorials/Using%20NFS%20MW%202012%20Exporter%20(for%20cars).pdf)
 *   [Using the Exporter for Cars - advanced info (MW12)](https://mwhex.github.io/mwtutorials/tutorials/Using%20NFS%20MW%202012%20Exporter%20(Advanced%20-%20for%20cars).pdf)
-*   [Using the Exporter for Driver model (MW12)](ttps://mwhex.github.io/mwtutorials/tutorials/Using%20NFS%20MW%202012%20Exporter%20(for%20driver).pdf)
+*   [Using the Exporter for Driver model (MW12)](https://mwhex.github.io/mwtutorials/tutorials/Using%20NFS%20MW%202012%20Exporter%20(for%20driver).pdf)
 *   Using the Exporter for Cars (HPR)
 *   Using the Exporter for Cars - advanced info (HPR)
     
