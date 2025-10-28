@@ -14,7 +14,7 @@ All tutorials relate to MW12 unless otherwise specified. Some may also work for 
 
 Tutorials for the Blender addons created by DGIorio.
 
-*   [Setting up the Blender addons](https://docs.google.com/document/d/17MgvNmoF_imx64WcghOgUVoji-hd4aQ6_tkreLQcnTk/)
+*   [Setting up the Blender addons](https://mwhex.github.io/mwtutorials/tutorials/How%20to%20setup%20Blender%20Addons%20for%20MW12%2C%20HPR%2C%20BP.pdf)
 *   [Using the Importer (MW12/HP/BP)](https://docs.google.com/document/d/1e23Q_dl1tWWGG5wn7XDRZXqLu6C0A8UihPFyhbTTMvc/)
 *   [Using the Exporter for Cars (MW12)](https://docs.google.com/document/d/1Vz9iIKMCYnIFS7giVAUu0WV8m8zIOoiqTzGKOQsXl_Q/)
 *   [Using the Exporter for Cars - advanced info (MW12)](https://docs.google.com/document/d/1LZ6DyZFypR9UazhVVC0X6T2y39PaFKFziV8-EV9P-o8/)
